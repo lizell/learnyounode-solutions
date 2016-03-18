@@ -1,1 +1,1 @@
-My solutions to the http://nodeschool.io/ [learyounode](https://github.com/workshopper/learnyounode).
+My solutions to the http://nodeschool.io/ [learnyounode](https://github.com/workshopper/learnyounode).
